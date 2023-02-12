@@ -1,0 +1,16 @@
+.paginationButton {
+    background: white;
+    padding: 10px 15px;
+    border-radius: 50px;
+}
+
+.paginationButton__current {
+    border: 3px solid red;
+}
+
+.pagination {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    margin: 20px 0;
+}
